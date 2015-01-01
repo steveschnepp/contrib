@@ -100,7 +100,7 @@ cat <<- EOF
 	speed.value $WD_SPEED
 
 	multigraph $pluginname.wind_direction
-	direction.label $WD_DIREC
+	direction.value $WD_DIREC
 EOF
 
 
